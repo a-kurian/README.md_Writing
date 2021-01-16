@@ -11,27 +11,27 @@ Write simple text, no need to add any tags it will automatically convert into te
 [link_name](targetURL)<br />
 Ex: [Github](https://www.github.com)
 
-[link name](targetURL "Link title") 
+[link name](targetURL "Link title")<br />
 Ex: [Github](https://www.github.com "Github home")
 
 ### STRONG, ITALIC & SRTIKE THROUGH TEXT
-_ Italic text here _
-** Strong **
-~~ Strikethrough text ~~
+_ Italic text here _ <br />
+** Strong ** <br />
+~~ Strikethrough text ~~ <br />
 
 ### IMMAGE
 ![imagename](TargetUrl)
 
 ### TABLES
-|Name|Email|Address|      <====== This is the heading of the table
-|----|-----|-------|      <====== This is the separator.
-|John|john@example.com|Address1| <=== This is the table body.
+|Name|Email|Address|      <====== This is the heading of the table <br />
+|----|-----|-------|      <====== This is the separator. <br />
+ |John|john@example.com|Address1| <=== This is the table body. <br />
 
 ### QUOTES
 >Your quote looks like this.
 
 ### CODE
-You can write code by appending ` symbol at the beginning and end of the line.
+You can write code by appending ' symbol at the beginning and end of the line. <br />
 
 If you want to write a block of code then add ``` at starting and ending of the code.
 You can specify your language after the ``` at starting of the line.
