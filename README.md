@@ -1,5 +1,5 @@
 # WRITING A MARKDOWN FILE(.md)
-<!--
+
 ### HEADINGS
 For writing headings, you have to add hash # symbol at the beginning of the line. The number of the hash symbol will increase heading type will change according to that.
 Up to Heading 6 is avilable (ie, 6#: ######)
@@ -51,4 +51,4 @@ your code
 
 ### Horizontal line
 If you want to add a horizontal line in the markdown file then simply add --- or ***
---->
+
