@@ -8,10 +8,10 @@ Up to Heading 6 is avilable (ie, 6#: ######)
 Write simple text, no need to add any tags it will automatically convert into text.
 
 ### HYPERLINKS
-[link_name](targetURL)__
+[link_name](targetURL)<br />
 Ex: [Github](https://www.github.com)
-__
-[link name](targetURL "Link title")__
+
+[link name](targetURL "Link title") 
 Ex: [Github](https://www.github.com "Github home")
 
 ### STRONG, ITALIC & SRTIKE THROUGH TEXT
