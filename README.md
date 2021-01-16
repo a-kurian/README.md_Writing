@@ -52,3 +52,5 @@ your code
 ### Horizontal line
 If you want to add a horizontal line in the markdown file then simply add --- or ***
 
+### COMMENT
+'''<!-- COMMENTING -->'''
